@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		185FC2032122CB3C007E0FCB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185FC2022122CB3C007E0FCB /* main.swift */; };
+		3C8939D5E3B16CA789FFD18A /* PokemonFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8938CB2A13EF7555952F40 /* PokemonFactory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		185FC1FF2122CB3C007E0FCB /* SwiftFactory */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftFactory; sourceTree = BUILT_PRODUCTS_DIR; };
 		185FC2022122CB3C007E0FCB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		3C8938CB2A13EF7555952F40 /* PokemonFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonFactory.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				185FC2022122CB3C007E0FCB /* main.swift */,
+				3C8938CB2A13EF7555952F40 /* PokemonFactory.swift */,
 			);
 			path = SwiftFactory;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				185FC2032122CB3C007E0FCB /* main.swift in Sources */,
+				3C8939D5E3B16CA789FFD18A /* PokemonFactory.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
